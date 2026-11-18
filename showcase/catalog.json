@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "bookish-lifestyle",
+    "name": "Bookish Lifestyle",
+    "pdfFile": "bookish-lifestyle.pdf",
+    "previewFile": "bookish-lifestyle-cover.png"
+  },
+  {
+    "slug": "dreamy-artist",
+    "name": "Dreamy Artist",
+    "pdfFile": "dreamy-artist.pdf",
+    "previewFile": "dreamy-artist-cover.png"
+  },
+  {
+    "slug": "playful-scrapbooker",
+    "name": "Playful Scrapbooker",
+    "pdfFile": "playful-scrapbooker.pdf",
+    "previewFile": "playful-scrapbooker-cover.png"
+  },
+  {
+    "slug": "romantic-posh",
+    "name": "Romantic Posh",
+    "pdfFile": "romantic-posh.pdf",
+    "previewFile": "romantic-posh-cover.png"
+  },
+  {
+    "slug": "soft-elegance",
+    "name": "Soft Elegance",
+    "pdfFile": "soft-elegance.pdf",
+    "previewFile": "soft-elegance-cover.png"
+  },
+  {
+    "slug": "sweet-tooth",
+    "name": "Sweet Tooth",
+    "pdfFile": "sweet-tooth.pdf",
+    "previewFile": "sweet-tooth-cover.png"
+  }
+]
